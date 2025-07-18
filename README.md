@@ -7,7 +7,7 @@
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=62CAFE&center=true&vCenter=true&width=450&lines=AI+%7C+Data+%7C+Python+Enthusiast;Business+Analyst+%26+Modern+Developer;Chemoinformatics+%2B+SaaS+Builder;Let%E2%80%99s+Create+Tomorrow+Together!" alt="Typing SVG" align="center"/>
+![AI | Data | Python Enthusiast | Business Analyst & Modern Developer | Chemoinformatics + SaaS Builder | Let’s Create Tomorrow Together!](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=62CAFE&width=900&lines=AI+%7C+Data+%7C+Python+Enthusiast;Business+Analyst+%26+Modern+Developer;Chemoinformatics+%2B+SaaS+Builder;Let%E2%80%99s+Create+Tomorrow+Together!)
 
 ---
 
