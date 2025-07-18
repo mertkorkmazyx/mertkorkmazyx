@@ -31,6 +31,34 @@
 | MSc     | Hacettepe University | Chemistry                | 2021 – 2024    |
 | BSc     | Hacettepe University | Chemistry                | 2014 – 2021    |
 
+<h1 align="center">👋 Hi, I'm Mert Korkmaz</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=62CAFE&center=true&vCenter=true&width=450&lines=AI+%7C+Data+%7C+Python+Enthusiast;Business+Analyst+%26+Modern+Developer;Chemoinformatics+%2B+SaaS+Builder;Let%E2%80%99s+Create+Tomorrow+Together!" alt="Typing SVG" />
+</p>
+
+---
+
+### 🚀 About Me
+
+- 💼 **Software, Data & Business Analyst** | AI-driven platforms & automation systems  
+- 🧠 **Chemoinformatics PhD** | Interdisciplinary science & technology  
+- 🏆 **Python & SQL Mastery** | From data pipelines to AI chatbots  
+- 🛠️ Modern dev: Cloud, BI, Full-stack, React, Docker, Power BI  
+- 👨‍💻 SME tools, SaaS, molecular modeling, automation & more!  
+- 🧬 Passionate about: AI, chemoinformatics, data science, and next-gen digital products  
+
+---
+
+### 📚 Education
+
+| Degree | Institution           | Field                  | Period         |
+|--------|-----------------------|------------------------|---------------|
+| PhD    | Hacettepe University  | Chemoinformatics       | 2024–Ongoing  |
+| MSc    | Hacettepe University  | Data & Info Engineering| 2025–Ongoing  |
+| MSc    | Hacettepe University  | Information Systems    | 2023–2025     |
+| MSc    | Hacettepe University  | Chemistry              | 2021–2024     |
+| BSc    | Hacettepe University  | Chemistry              | 2014–2021     |
+
 ---
 
 ### 💼 Professional Life in Short
@@ -49,44 +77,3 @@
 
 - Turboard | Pharmaceutical Data Analyst
     - Pharma analytics, BI dashboards, patent landscape, chemoinformatics
-
----
-
-### 🔗 Connect with me
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mertkorkmazxyz@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mertkorkmazyx)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mertkorkmazyx)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://korkmazsoftware.vercel.app/)
-
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,postgresql,mysql,js,ts,react,pycharm,git,powershell,vscode,azure,aws,figma" />
-</p>
-
----
-
-### 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mertkorkmazyx&show_icons=true&theme=tokyonight&hide=stars,prs"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mertkorkmazyx&theme=tokyonight"/>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=mertkorkmazyx&theme=tokyo-night" />
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- **Kalendo:** Modern appointment, calendar & customer management system
-- **StokMaster:** Smart stock & sales prediction tool
-- **KorkmazGPT:** On-prem LLM-powered enterprise knowledge assistant
-- **MolDock:** AI-enhanced molecular docking & analytics platform
-- **WorkFlow:** Smart checklist & team process documentation tool
-
----
-
-
