@@ -76,29 +76,16 @@
 
 ---
 
-## 📚 My Learning Journey
-
-| Year         | Journey                           | Notes                                       |
-|--------------|-----------------------------------|---------------------------------------------|
-| 2014         | Chemistry BSc                     | Algorithmic thinking, basic coding          |
-| 2017–2021    | Data meets Chemistry              | Python, SQL, analytic projects              |
-| 2021–2024    | MSc, BI, ML, dual-discipline      | R&D, pharma, healthcare, BI dashboards      |
-| 2023+        | AI & Automation, Biz Analytics    | Turkish Red Crescent full integration       |
-| 2024+        | Chemoinformatics, LLM, SaaS       | AI/LLM-powered SaaS product development     |
-
----
-
 ## 🏅 Certificates & Achievements
 
+- Python Developer, AI Engineer&Developer (Datacamp)
 - Data Science, Data Engineering, ML, SQL (MIUUL)
 - AWS Academy: Cloud Fundamentals
-- SAP ABAP & ERP, Quality Engineering
 - Power BI, Tableau, CRM Analytics
 
 ---
 
-> **"Klasik veri analizinden AI tabanlı çözümlere, iş analitiğinden kodun büyüsüne… Modern problemlere akıllı çözümler üretiyorum.  
-Let’s build the future, together! 🚀"**
+> **"Let’s build the future, together! 🚀"**
 
 ---
 
